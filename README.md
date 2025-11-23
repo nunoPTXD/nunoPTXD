@@ -1,4 +1,4 @@
-## Hey there! <img src="https://github.com/user-attachments/assets/2d798692-96c2-4517-a71b-7d93f4000c63" width="20" height="20">
+## Hey there! <img src="https://github.com/user-attachments/assets/2d798692-96c2-4517-a71b-7d93f4000c63" width="25" height="25">
 
 
 I’m Nuno, a student currently learning programming.
