@@ -1,6 +1,5 @@
 # Hey there! <img src="https://github.com/user-attachments/assets/2d798692-96c2-4517-a71b-7d93f4000c63" width="25" height="25">
 
-
 I’m Nuno, a student currently learning programming.
 
 I’m still early in my coding journey, but I love building things whenever I get the chance.
@@ -9,7 +8,6 @@ Right now I’m mainly focused on Flutter, since it’s part of my school projec
 
 I may not be super active yet while I’m still learning, but as I improve, I’ll definitely become more active and start pushing more fun ideas and projects here.
 
-<hr style="height:1px; border:none; background-color:#ddd;">
 
 ### 🔭 I’m currently working on:
 - A Flutter app for my school project (PAP)
