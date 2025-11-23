@@ -8,7 +8,7 @@ I’m still early in my coding journey, but I love building things whenever I ge
 Right now I’m mainly focused on Flutter, since it’s part of my school project. I’m also taking a coding course, and when I’m not working on school stuff, I like coding small learning projects just for fun.
 
 I may not be super active yet while I’m still learning, but as I improve, I’ll definitely become more active and start pushing more fun ideas and projects here.
-#
+***
 ### 🔭 I’m currently working on:
 - A Flutter app for my school project (PAP)
 - Small learning projects to improve my fundamentals
