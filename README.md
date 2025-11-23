@@ -9,16 +9,16 @@ Right now I’m mainly focused on Flutter, since it’s part of my school projec
 
 I may not be super active yet while I’m still learning, but as I improve, I’ll definitely become more active and start pushing more fun ideas and projects here.
 
-I’m currently working on:
+🔭 I’m currently working on:
 A Flutter app for my school project (PAP)
 Small learning projects to improve my fundamentals
 
-I’m currently learning:
+🌱 I’m currently learning:
 - Flutter & Dart
 - Firebase
 - General software development through my school course
 
-Fun facts
+⚡ Fun facts
 - I do powerscaling for fun
 - My main favorite anime is Solo Leveling
 - I’m either of super lazy and super hard-working
