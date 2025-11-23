@@ -1,4 +1,4 @@
-## Hey there! ![Hey](https://github.com/user-attachments/assets/2d798692-96c2-4517-a71b-7d93f4000c63 =50x50)
+## Hey there! ![Hey](https://github.com/user-attachments/assets/2d798692-96c2-4517-a71b-7d93f4000c63 | width=50)
 
 
 I’m Nuno, a student currently learning programming.
